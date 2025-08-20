@@ -1,0 +1,146 @@
+Name: Muhammad Ahmad Sultan
+Role: Software Engineer | AI/ML Engineer 
+
+Summary: Enthusiastic software engineer with 4 years of professional experience and currently pursuing a bachelor's degree in software engineering. Proficient in developing web applications and backend systems, with a focus on writing clean, scalable, and maintainable code. Experienced in collaborating within diverse teams on various projects. Adaptable to both remote and office work environments. Committed to continuous learning and staying updated with emerging technologies.
+
+
+Experience:
+
+1. Digital Perception (PVT.) LLP
+2022 - Present
+
+ML Engineer (Entry-Level)
+Software Developer (MERN, Python, AI/ML, GenAI, Knowledge Graphs)
+Content Writing
+
+
+2. Freelance Ventures: Java, Python, C++ and MERN Developer
+2021 - Present
+
+MERN, Python, Java & C++ Project Development
+
+3. Leadership & Extracurricular Activities
+2015 - Present
+->Vice President, Software Society – MCS, Rawalpindi
+->Course Representative, BESE-28 – MCS, Rawalpindi
+->Event Organizer & Manager – Multiple Events & Programs
+->Captain, Cricket Team – DPS Sahiwal)
+->Participant – Tech, Sports, Literary & Debating, Science Competitions
+
+
+Education:
+
+1. National University of Sciences and Technology, NUST
+Islamabad
+2022- 2026
+Bachelor of Software Engineering
+CGPA: 3.88/4.0
+
+
+2. Divisional Public School and Inter College,
+Sahiwal
+
+2020 - 2022
+FSC Pre-Engineering
+1055/1100 (95.9%)
+
+2018 - 2020
+Matriculation 
+1078/1100 (98%)
+
+
+
+Languages: 
+
+->English
+->Urdu
+->German
+->Turkish
+->Arabic
+->Punjabi
+
+
+AI / Machine Learning
+Languages & Libraries: Python, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, MATPLOTLIB
+LLM & NLP: Hugging Face Transformers, LangChain, Retrieval-Augmented Generation (RAG), LLMs
+API & Deployment: FastAPI
+
+Web Development
+Frontend: React, Vite, Tailwind CSS
+Backend: JavaScript, Node.js, Express.js, FastAPI
+
+Databases
+SQL: MySQL, SQLite, PostgreSQL
+NoSQL: MongoDB
+Graph Databases: Neo4j, Cypher, Knowledge Graphs
+
+Programming Concepts
+Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+C++, Java Swing
+
+Tools & Version Control
+Git, GitHub, Streamlit, Docker, Jupyter Notebook, VS Code, PyCharm, Apache NetBeans, Postman, Swagger, Productivity Suites, Office Tools
+
+Soft Skills & Other
+Content Writing, Communication Skills, Project Management, Critical Thinking,
+Problem Solving, Team Collaboration, Time Management, Event Planning & Management, Sports Aficionado
+
+
+Projects:
+
+[1]. Text2Graph – Converts unstructured text into insightful knowledge graphs, enabling deeper comprehension through visual representation.
+
+[2]. QuizGen – AI/ML quiz generator that creates intelligent MCQs with explanations. Built using React, FastAPI, and powered by OpenAI’s GPT-3.5 Turbo.
+
+[3]. Journevia – Full-stack MERN (MongoDB, Express.js, React.js, Node.js) application for travel enthusiasts to document and relive their journeys with stories, locations, images, and dates.
+
+[4]. Taskify – A task management app built with the MERN stack for organizing and tracking to-do lists efficiently.
+
+[5]. TermiLib – A terminal-based library management system in Java, supporting book issuance, returns, and user management via console interface.
+
+[6]. Blood Bank Management System – A Java-based application to manage donors, recipients, blood inventory, and request processing for blood banks.
+
+[7]. Library Management System – Developed in Java, this system handles book inventory, lending records, user registration, and return tracking for libraries.
+
+[8]. College Management System – A comprehensive Java-based solution for managing student data, staff, courses, and academic operations.
+
+[9]. TalkBuddy – An interactive chatbot application built using Socket Programming for real-time, peer-to-peer communication.
+
+[10]. Fyndra – An intelligent information retrieval system for e-commerce websites, built in Python. It performs web scraping to crawl, index, and search content from online stores for efficient product discovery.
+
+[11]. Portfolio Websites – Responsive and modern personal websites created using HTML, CSS, JavaScript, and React, showcasing skills, experience, and projects.
+
+
+
+Certifications:
+
+
+
+
+Contact:
+
+Email: m.ahmad.sultan82@gmail.com
+Phone: +92-306-1611301
+Address: Islamabad-44000, Pakistan
+LinkedIn: https://www.linkedin.com/in/ahmadsultan03/
+GitHub: https://github.com/ahmadsultan03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
